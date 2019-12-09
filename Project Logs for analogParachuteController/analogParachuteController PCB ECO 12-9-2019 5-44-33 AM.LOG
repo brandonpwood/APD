@@ -1,0 +1,30 @@
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ1_3
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetU?_3 New Net Name=NetU1_7
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U4-4
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=Q2-1
+Added Pin To Net: NetName=NetC2_2 Pin=R2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U4-1
+Added Net: Name=NetC2_2
+Added Member To Class: ClassName=analogParachuteController Member=Component C0 10uF
+Added Member To Class: ClassName=analogParachuteController Member=Component C1 1uF
+Added Member To Class: ClassName=analogParachuteController Member=Component C2 1uF
+Added Member To Class: ClassName=analogParachuteController Member=Component P1 22-27-2021
+Added Member To Class: ClassName=analogParachuteController Member=Component P? 22-27-2021
+Added Member To Class: ClassName=analogParachuteController Member=Component Q1 RFP50N06
+Added Member To Class: ClassName=analogParachuteController Member=Component Q2 RFP50N06
+Added Member To Class: ClassName=analogParachuteController Member=Component R1 100KR
+Added Member To Class: ClassName=analogParachuteController Member=Component R2 100KR
+Added Member To Class: ClassName=analogParachuteController Member=Component R? 3386P-1-104LF
+Added Member To Class: ClassName=analogParachuteController Member=Component U1 KP216H1416
+Added Member To Class: ClassName=analogParachuteController Member=Component U2 MCP601T-E/OT
+Added Member To Class: ClassName=analogParachuteController Member=Component U3 MCP601T-E/OT
+Added Member To Class: ClassName=analogParachuteController Member=Component U4 MCP601T-E/OT
+Added Room: Name=analogParachuteController
